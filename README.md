@@ -1,14 +1,14 @@
 # OpenSourceSaunaOven
-Saunaoven for Heissdrum 
+lasered Saunaoven for Heissdrum 
 
-Build your own Sauna with this laser files and instructions!
+You can build your own pop-up-sauna with this laser files and instructions!
 See what the project is all about: 
 https://www.youtube.com/watch?v=u9tBC7Oolpg
 See full instruction video:
 https://www.youtube.com/watch?v=xc62vMFpeGs
 
 
-concept and design of the oven and structure by Michael Altmann 2021
+concept and design of the oven and structure by Michael Altmann (2021)
 
 Feel free to support my work on this project:
 https://paypal.me/altmannmichael?locale.x=de_DE
