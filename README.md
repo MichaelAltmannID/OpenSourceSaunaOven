@@ -1,5 +1,6 @@
 # OpenSourceSaunaOven
 lasered Saunaoven for Heissdrum 
+concept and design of the oven by Michael Altmann (2021)
 
 You can build your own pop-up-sauna with this laser files and instructions!
 See what the project is all about: 
@@ -7,8 +8,13 @@ https://www.youtube.com/watch?v=u9tBC7Oolpg
 See full instruction video:
 https://www.youtube.com/watch?v=xc62vMFpeGs
 
+here you Find all the CAD files as well as storage for contributions (because the files are too big for Github): 
+https://drive.google.com/drive/folders/1fWJUJCEb_0PIEq7bwieR2cLpxKW4dfcp?usp=sharing
 
-concept and design of the oven and structure by Michael Altmann (2021)
+Improvements to the stove in the Video:
+- no welding needed for connecting the stofe pipe (if you buy the standard adapter shown in the CAD drawing)
+- Drawer for the ashes has now perforated bending edges, not approved yet. - should work i guess
+
 
 Feel free to support my work on this project:
 https://paypal.me/altmannmichael?locale.x=de_DE
